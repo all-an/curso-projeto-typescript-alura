@@ -1,4 +1,6 @@
 .js
+typescript-curso-1-arquivos-iniciais/dist/
+typescript-curso-1-arquivos-iniciais/node_modules/
 dist/
 node_modules/
 servidor-api/node_modules
