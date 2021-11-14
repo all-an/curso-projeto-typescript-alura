@@ -8,6 +8,6 @@ console.log(negociacao.data);
 
 console.log(negociacao.volume);
 
-alert("casa");
+alert("teste");
 
 
