@@ -6,6 +6,8 @@ console.log(negociacao.data);
 
 //negociacao.quantidade = 1000;
 
-console.log(negociacao.voluime);
+console.log(negociacao.volume);
+
+alert("oi");
 
 
