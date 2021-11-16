@@ -1,3 +1,4 @@
+CRUD em desenvolvimento 
 Projeto Plataforma de Negociações em Typescript
 
 #Alura
